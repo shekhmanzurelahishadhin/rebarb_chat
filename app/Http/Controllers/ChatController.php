@@ -6,7 +6,6 @@ use App\Events\MessageSent;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
 
-
 class ChatController extends Controller
 {
     public function fireMessage(Request $request)
