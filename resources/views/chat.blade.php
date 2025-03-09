@@ -84,7 +84,6 @@
                         </div>
               `)
                 messageInput.value=''
-
             },
             error: function(response) {
 
