@@ -86,7 +86,6 @@
                 messageInput.value=''
             },
             error: function(response) {
-
             }
         })
     }
