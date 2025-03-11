@@ -89,7 +89,6 @@
             }
         })
     }
-
     window.onload = () => {
         window.Echo.channel('user-message').listen('MessageSent', function(data) {
             if (data.sender != "{{ $username }}") {
