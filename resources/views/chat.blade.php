@@ -45,7 +45,6 @@
                 <div class="card-body chat-box" id="messages">
                     <!-- Static Chat Messages -->
 
-
                 </div>
             </div>
             <div class="input-group mt-3">
